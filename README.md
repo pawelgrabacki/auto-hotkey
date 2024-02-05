@@ -1,2 +1,2 @@
 # Autohotkey
-Autohotkey scripts.
+Autohotkey tests.
