@@ -1,4 +1,6 @@
-﻿^j::
+﻿;autohotkey tests
+
+^j::
 {
 Run "N:\MUSEO\Workshop"
 return
@@ -10,3 +12,9 @@ Run "N:\UNITY_PROJECT\Workshop_01\Assets"
 return
 }
 
+
+^!F12::
+{
+MsgBox ("Test")
+return
+}
