@@ -1,4 +1,4 @@
-﻿;autohotkey tests
+﻿;autohotkey macros
 
 ^j::
 {

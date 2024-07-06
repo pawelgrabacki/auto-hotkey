@@ -1,2 +1,2 @@
 # Autohotkey
-Autohotkey tests.
+Autohotkey macros.
